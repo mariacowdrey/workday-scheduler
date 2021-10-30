@@ -43,7 +43,7 @@ textarea {
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #e4e1e1;
   color: white;
 }
 
@@ -70,8 +70,7 @@ textarea {
   transition: all 0.3s ease-in-out;
 }
 
-/*** OVERWRITE - MEDIA QUERY FOR TABLETS AND SMALLER  ***/
-/* This will be applied on any screen 768px and bellow */
+/* This will be applied on any screen 768px and below */
 @media screen and (max-width: 768px), screen and (max-width: 575px) {
   .row {
     height: auto;
